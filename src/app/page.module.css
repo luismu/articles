@@ -7,6 +7,10 @@
   min-height: 100vh;
 }
 
+
+
+
+
 .description {
   display: inherit;
   justify-content: inherit;
@@ -202,6 +206,7 @@
     z-index: 1;
   }
 }
+
 
 /* Tablet and Smaller Desktop */
 @media (min-width: 701px) and (max-width: 1120px) {
